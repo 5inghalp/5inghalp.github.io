@@ -1,5 +1,7 @@
-LALALALALA Here you can say lots of fun things about your site.
+LALALALALA we're testing out if this is a viable option for our lab blog post.
 
-Maybe say a some things about yourself.
+i
 
-Or maybe what you plan to blog about.
+think
+
+so.
