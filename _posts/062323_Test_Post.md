@@ -1,6 +1,6 @@
-## Verma Lab Test Blogpost
+## Blog Post Title From First Header
 
-lalalal Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
 If the file does not start with a header, then the post title will be derived from the filename.
 
@@ -13,7 +13,10 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 #### Some T-SQL Code
 
 ```tsql
-~/group/projects/simulation_encoding/sim_updated.R --maf1=0.1 --maf2=0.1 --eff1=0,0.5,1 --eff2=0,0.5,1 --case=5000 --control=15000 --model= 0,0,0,1 > model_maf0.1_additive_case5000con15000_model0_0_0_0.1
+SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
+    , REVERSE('abc')
+FROM dbo.SomeTable s
+    CROSS JOIN dbo.OtherTable o;
 ```
 
 #### Some PowerShell Code
@@ -25,5 +28,3 @@ Write-Host "This is a powershell Code block";
 
 ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
-}
-```
