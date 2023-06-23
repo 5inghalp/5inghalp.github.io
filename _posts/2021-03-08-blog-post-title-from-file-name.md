@@ -6,6 +6,8 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+![Penn logo] (/docs/assets/594-5949205_penn-medicine-logo-hd-png-download.png)
+
 ---
 
 ### This is a header
